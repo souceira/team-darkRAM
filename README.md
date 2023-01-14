@@ -4,10 +4,8 @@ GitHub repository for team darkRAM at SheHacks+ 7!
 
 Team darkRAM is composed of the following hackers:
 - [<b>D</b>enise (Denny) Maranga](DeniseMaranga.md)
-- [<b>A</b>nna Nguyen]()
-- [<b>R</b>aisa Kayastha]()
-- [<b>K</b>alpi Patel]()
+- [<b>A</b>nna Nguyen](AnnaNguyen.md)
+- [<b>R</b>aisa Kayastha](RaisaKayastha.md)
+- [<b>K</b>alpi Patel](kalpi.md)
 
 We're here to have fun and hopefully come out on top in the Hacker Olympics!
-
-test link [here](https://github.com/souceira/team-darkRAM/blob/main/DeniseMaranga.md)
