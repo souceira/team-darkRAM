@@ -1,4 +1,4 @@
-# <font color=#D9C1FF> ✧･ﾟ: **R A I S A** :･ﾟ✧*</font>
+#  ✧･ﾟ: **R A I S A** :･ﾟ✧
 ## **Who am I? 🌸**<br>
 Hi! My name is Raisa Kayastha. I’m a first year Computer Science student at Western University. My skills currently include Python, HTML, and I’ve just started learning Java as well.<br>
 
