@@ -18,5 +18,5 @@ SheHacks+7 is my first hackathon ever and I’m really enjoying it so far. I’m
 >🪴 Plants (But they all die in my care) <br>
 
 ## **Cat 👍🏼**
-My favourite animal
+My favourite animal:)
 ![cat](https://i.pinimg.com/564x/1a/88/96/1a889670d4d062b0d17aa34748cc3ef8.jpg "cat")
