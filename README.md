@@ -10,3 +10,5 @@ team darkRAM is composed of the following hackers (click our names to find out m
 > 🍂 [<b>K</b>alpi Patel](kalpi.md)
 
 We're here to have fun and hopefully come out on top in the Hacker Olympics! Thank you for having us 💕
+
+GitHub Pages link [here!](https://souceira.github.io/team-darkRAM/)
