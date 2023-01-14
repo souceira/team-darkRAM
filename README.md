@@ -10,4 +10,4 @@ Team darkRAM is composed of the following hackers:
 
 We're here to have fun and hopefully come out on top in the Hacker Olympics!
 
-test link [here] (DeniseMaranga.md)
+test link [here] (https://github.com/souceira/team-darkRAM/blob/main/DeniseMaranga.md)
